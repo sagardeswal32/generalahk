@@ -1,6 +1,8 @@
 # generalahk
 This is a general shortcuts script. Which have daily usable shortcuts for everyone.
+
 Version 1.0
+
 Step 1) Right Click on the GeneralFile_ahk and click on Edit Script.
 
 Step 2) Replace the Text "Type your Email ID here" with your Email ID.[ Note please don't put comma, only your email ID]
